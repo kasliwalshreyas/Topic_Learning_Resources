@@ -12,23 +12,23 @@ We love your input! We want to make contributing to this project as easy and tra
 - Mention total **number of changes/added** resources in the pull request.
 - Pull request should include a link to the resource and a short description.
 - The resource **must** be completely free or to have a free tier.
+- Make sure you add your resource in the correct alphabetical order
 
 ## Template
     - please follow this link type.
     - https:// at the starting.
     - No / at the end.
-    
 #### Documentations
 - TOPIC : SOURCE NAME - LINK
 - SASS  : w3schools   - https://www.w3schools.com/sass
 - Next  : Docs        - https://nextjs.org
 
 #### Video/Playlist
-| TOPIC                          | SOURCE NAME       | LINK                                        |
-| ------------------------------ | ----------------- | ------------------------------------------- |
-| HTML                           | FreeCodeCamp      | https://www.youtube.com/watch?v=pQN-pnXPaVg |
-| PYTHON Basics (Beginner)       | FreeCodeCamp      | https://www.youtube.com/watch?v=rfscVS0vtbw |
-| REACT JS (Beginner to Advance) | Clever Programmer | https://www.youtube.com/watch?v=-cMqr9HpZ-Y |
+| TOPIC                          | SOURCE NAME       | LINK                                                      |
+| ------------------------------ | ----------------- | --------------------------------------------------------- |
+| HTML                           | FreeCodeCamp      | [click here](https://www.youtube.com/watch?v=pQN-pnXPaVg) |
+| Python Basics (Beginner)       | FreeCodeCamp      | [click here](https://www.youtube.com/watch?v=rfscVS0vtbw) |
+| React JS (Beginner to Advance) | Clever Programmer | [click here](https://www.youtube.com/watch?v=-cMqr9HpZ-Y) |
 
 ## Steps For Contribution
 
@@ -39,7 +39,7 @@ We love your input! We want to make contributing to this project as easy and tra
     5. Make Pull Request
 
 
-## Get help from Guthub:
+## Get help from Github:
 
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
@@ -49,4 +49,4 @@ We love your input! We want to make contributing to this project as easy and tra
 
 
 ## Thank you! ❤️
-Thank you for contributing to our awesome resources.
+Thank you for contributing to my awesome resources.
